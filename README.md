@@ -15,6 +15,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/muathmm/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/muathmm/leetCode/tree/master/0012-integer-to-roman) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muathmm/leetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/muathmm/leetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0010-regular-expression-matching](https://github.com/muathmm/leetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/muathmm/leetCode/tree/master/0012-integer-to-roman) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muathmm/leetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/muathmm/leetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,8 +67,14 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/muathmm/leetCode/tree/master/0011-container-with-most-water) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/muathmm/leetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muathmm/leetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/muathmm/leetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Sorting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/muathmm/leetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
