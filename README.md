@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/muathmm/leetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/muathmm/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/muathmm/leetCode/tree/master/0011-container-with-most-water) |
+| [0921-spiral-matrix-iii](https://github.com/muathmm/leetCode/tree/master/0921-spiral-matrix-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muathmm/leetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
@@ -80,4 +81,12 @@
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/muathmm/leetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/muathmm/leetCode/tree/master/0921-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/muathmm/leetCode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
