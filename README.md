@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/muathmm/leetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/muathmm/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/muathmm/leetCode/tree/master/0011-container-with-most-water) |
+| [0870-magic-squares-in-grid](https://github.com/muathmm/leetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/muathmm/leetCode/tree/master/0921-spiral-matrix-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muathmm/leetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
@@ -15,6 +16,7 @@
 | [0001-two-sum](https://github.com/muathmm/leetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muathmm/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/muathmm/leetCode/tree/master/0012-integer-to-roman) |
+| [0870-magic-squares-in-grid](https://github.com/muathmm/leetCode/tree/master/0870-magic-squares-in-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muathmm/leetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/muathmm/leetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -28,6 +30,7 @@
 | [0007-reverse-integer](https://github.com/muathmm/leetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/muathmm/leetCode/tree/master/0012-integer-to-roman) |
 | [0273-integer-to-english-words](https://github.com/muathmm/leetCode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/muathmm/leetCode/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +87,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/muathmm/leetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/muathmm/leetCode/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
