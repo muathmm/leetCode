@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/muathmm/leetCode/tree/master/0011-container-with-most-water) |
 | [0870-magic-squares-in-grid](https://github.com/muathmm/leetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/muathmm/leetCode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/muathmm/leetCode/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muathmm/leetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/muathmm/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/muathmm/leetCode/tree/master/0012-integer-to-roman) |
 | [0870-magic-squares-in-grid](https://github.com/muathmm/leetCode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/muathmm/leetCode/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muathmm/leetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/muathmm/leetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -89,8 +91,21 @@
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/muathmm/leetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/muathmm/leetCode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/muathmm/leetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Simulation
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/muathmm/leetCode/tree/master/0921-spiral-matrix-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/muathmm/leetCode/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/muathmm/leetCode/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/muathmm/leetCode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
