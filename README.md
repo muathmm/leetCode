@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/muathmm/leetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/muathmm/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/muathmm/leetCode/tree/master/0011-container-with-most-water) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/muathmm/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/muathmm/leetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/muathmm/leetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/muathmm/leetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muathmm/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/muathmm/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muathmm/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/muathmm/leetCode/tree/master/0011-container-with-most-water) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/muathmm/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/muathmm/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/muathmm/leetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
