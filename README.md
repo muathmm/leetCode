@@ -12,6 +12,7 @@
 | [0921-spiral-matrix-iii](https://github.com/muathmm/leetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/muathmm/leetCode/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muathmm/leetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/muathmm/leetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +116,12 @@
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/muathmm/leetCode/tree/master/0999-regions-cut-by-slashes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/muathmm/leetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/muathmm/leetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
